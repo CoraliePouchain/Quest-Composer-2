@@ -1,0 +1,15 @@
+{
+    "name": "mllelaguillotine/composer",
+    "autoload": {
+        "psr-4": {
+            "App\\Wcs\\": "src/Wcs/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Coralie Pouchain",
+            "email": "pouchaincoralie@gmail.com"
+        }
+    ],
+    "require": {}
+}
